@@ -1,2 +1,2 @@
 # GO 
-![](/file/golang.png)
+![](/files/golang.png)
